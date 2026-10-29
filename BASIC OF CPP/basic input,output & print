@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+int main () {
+    // cout<<" let start dsa in cpp"; // to print any statement
+    //variable declearation 
+    // //method 1
+    // int a = 4;
+    // // cout<< a;
+    // method 2 for multiple variable 
+    // int a,b,c;
+    // a=3;
+    // b=7;
+    // c=9;
+    // cout<<a<<" "<<b<<" "<<c;
+    
+    
+    //to make things to next line use "endl"
+    int a,b,c;
+     a=3;
+     b=7;
+     c=9;
+     // cout<<a<<endl<<b<<endl<<c; 
+    //another method 2
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+
+    
+    //taking input from user 
+    // int a;
+    // cout<<"entre the number: ";
+    // cin>>a;
+    // cout<<a;
+}
